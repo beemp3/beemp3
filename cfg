@@ -1,1 +1,1 @@
-{"enb": true, "dead": false, "nodes": ["https://node1.beemp.biz/", "https://node2.beemp.biz/", "https://node3.beemp.biz/"]}
+{"enb": false, "dead": false, "nodes": ["https://node1.beemp.biz/", "https://node2.beemp.biz/", "https://node3.beemp.biz/"]}
